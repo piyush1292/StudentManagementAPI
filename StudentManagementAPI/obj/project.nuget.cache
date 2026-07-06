@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6DHdbhUjRMM=",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\StudentManagementAPI\\StudentManagementAPI\\StudentManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\el51oie\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.17\\microsoft.aspnetcore.openapi.9.0.17.nupkg.sha512",
+    "C:\\Users\\el51oie\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
